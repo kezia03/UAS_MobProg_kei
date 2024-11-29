@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.dart text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+*.swift text eol=lf
+*.cc text eol=lf
+*.h text eol=lf
+*.cmake text eol=lf
+*.gradle text eol=lf

@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "714561688288",
+      "project_id": "polylingo-56123",
+      "storage_bucket": "polylingo-56123.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:714561688288:android:0a82f55114504e2dbb7685",
+          "android_client_info": {
+            "package_name": "com.example.uas_mobprog"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDYykGZKUo1KOxvLDGilrMR-1Fwy4L7dGs"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
